@@ -1,0 +1,6 @@
+[submodule "archiso/airootfs/root/rtl8852bu"]
+	path = archiso/airootfs/root/rtl8852bu
+	url = https://github.com/lwfinger/rtl8852bu
+[submodule "archiso/airootfs/root/rtl8852bu-20240418"]
+	path = archiso/airootfs/root/rtl8852bu-20240418
+	url = https://github.com/morrownr/rtl8852bu-20240418
