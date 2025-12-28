@@ -6,7 +6,9 @@ archlinux-keyring
 avahi
 b43-fwcutter
 base
+base-devel
 bash-completion
+bc
 bcachefs-tools
 bind
 bluedevil
@@ -36,6 +38,7 @@ darkhttpd
 ddrescue
 dhcpcd
 diffutils
+dkms
 dmidecode
 dmraid
 dnsmasq
@@ -51,6 +54,7 @@ f2fs-tools
 fakeroot
 fatresize
 firefox
+git
 gpart
 gparted
 gptfdisk
@@ -81,6 +85,7 @@ libusb-compat
 libwnck3
 linux-atm
 linux-cachyos-lts
+linux-cachyos-lts-headers
 linux-cachyos-lts-zfs
 linux-cachyos
 linux-cachyos-zfs
@@ -101,6 +106,7 @@ mkinitcpio
 mkinitcpio-archiso
 mkinitcpio-nfs-utils
 mobile-broadband-provider-info
+mokutil
 modemmanager
 mtools
 nano

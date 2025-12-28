@@ -1,0 +1,7 @@
+# UGREEN AX1800
+# source: https://gist.github.com/snooptheone/70742ff0c8ef386c45cda8d2ba34ab4e
+DefaultVendor= 0x0bda
+DefaultProduct= 0x1a2b
+TargetVendor=0x0bda:1a2b
+TargetProduct=0x8832
+StandardEject=1
